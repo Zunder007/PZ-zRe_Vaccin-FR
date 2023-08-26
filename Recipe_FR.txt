@@ -1,0 +1,143 @@
+Recipe_FR = {
+
+	Recipe_zReMakeMildewCure = "3. Faire un remède contre la moisissure",
+
+	Recipe_OthCork = "Fabriquer des bouchons",
+	Recipe_OthUnpackFlasks = "Déballez la boîte avec les flacons",
+	Recipe_OthPackFlasks = "Mettre les flacons dans la boîte",
+	
+	
+	Recipe_UpToVaccineTo5lvlOne = "1.5 Essayer d'extraire des anticorps résistants (Ensemble de chimie)",
+	Recipe_UpToVaccineTo5lvlTwo = "1.5 Essayer d'extraire des anticorps résistants (Ensemble de chimie)",
+	Recipe_ChmSynthesizeSerum = "2.1 Synthétiser le sérum (Ensemble de chimie)",
+	Recipe_ChmSynthesizeSerumTwo = "2.1 Synthétiser le sérum (Ensemble de chimie)",
+	Recipe_ChmGetAnInjectionSerum = "Injecter du sérum",
+	Recipe_ChmGetAnInjectionSerumTwo = "Injecter du sérum",
+
+
+	Recipe_CreateNotebookLab = "Créer un bloc-notes",
+
+	Recipe_CreateNotebookVaccineStart = "1.1 Définir la formule du vaccin initial",
+
+	Recipe_UpToVaccineTo2lvlOne = "1.2 Essayer d'améliorer le vaccin au niveau 2 (Ensemble de chimie)",
+	Recipe_UpToVaccineTo2lvlTwo = "1.2 Essayer d'améliorer le vaccin au niveau 2 (Ensemble de chimie)",
+
+	Recipe_UpToVaccineTo3lvlOne = "1.3 Essayer d'améliorer le vaccin au niveau 3 (Ensemble de chimie)",
+	Recipe_UpToVaccineTo3lvlTwo = "1.3 Essayer d'améliorer le vaccin au niveau 3 (Ensemble de chimie)",
+
+	Recipe_UpToVaccineTo4lvlOne = "1.4 Essayer d'améliorer le vaccin au niveau 4 (Ensemble de chimie)",
+	Recipe_UpToVaccineTo4lvlTwo = "1.4 Essayer d'améliorer le vaccin au niveau 4 (Ensemble de chimie)",
+
+	Recipe_ChmSynthesizePlainVaccine = "2. Synthétiser le vaccin de niveau 1 (Ensemble de chimie)"
+	Recipe_ChmSynthesizePlainVaccineTwo = "2. Synthétiser le vaccin de niveau 1 (Ensemble de chimie)",
+	
+	Recipe_ChmSynthesizeQualityVaccine = "2. Synthétiser le vaccin de niveau 2 (Ensemble de chimie)",
+	Recipe_ChmSynthesizeQualityVaccineTwo = "2. Synthétiser le vaccin de niveau 2 (Ensemble de chimie)",
+	
+	Recipe_ChmSynthesizeAdvancedVaccine = "2. Synthétiser le vaccin de niveau 3 (Ensemble de chimie)",
+	Recipe_ChmSynthesizeAdvancedVaccineTwo = "2. Synthétiser le vaccin de niveau 3 (Ensemble de chimie)",
+	
+	Recipe_ChmSynthesizeCure = "2. Synthétiser le vaccin de niveau 4 (Ensemble de chimie)",
+	Recipe_ChmSynthesizeCureTwo = "2. Synthétiser le vaccin de niveau 4 (Ensemble de chimie)",
+	
+	Recipe_ChmTakeBloodForAnalysis = "3.1 Prendre du sang pour analyse (soi-même)",
+	Recipe_ChmTakeBloodForAnalysisTwo = "3.1 Prendre du sang pour analyse (soi-même)",
+	Recipe_ChmGetBloodTest = "3.2 Faire un test sanguin (Spectromètre)",
+	Recipe_ChmGetBloodTestTwo = "3.2 Faire un test sanguin (Spectromètre)",
+	
+	
+	Recipe_ChmMixFlaskOfSodiumHypochlorite = "1. Mélanger le Flacon d'hypochlorite de sodium (Ensemble de chimie)",
+	Recipe_ChmMixFlaskOfAmmoniumSulfate = "1. Mélanger le Flacon de Sulfate d'ammonium (Ensemble de chimie)",
+	Recipe_ChmMixFlaskOfHydrogenPeroxide = "1. Mélanger le Flacon de Peroxyde d'hydrogène (Ensemble de chimie)",
+	
+	Recipe_ChmDivideBloodIntoComponents = "2.1 Diviser le sang en composants (Centrifugeuse)",
+	Recipe_ChmExtractLeukocytesFromBloodCells = "2.2 Extraire les leucocytes des cellules sanguines (Microscope)",
+	Recipe_ChmExtractAntibodiesFromLeukocytes = "2.3 Extraire les anticorps des leucocytes (Chromatographe + Ordinateur)",
+	
+	Recipe_ChmMakeAlbumin = "3. Fabriquer de l'albumine (Ensemble de chimie)",
+	Recipe_ChmMakeBottleOfBleach = "3. Fabriquer une bouteille d'eau de Javel (Ensemble de chimie)"
+	Recipe_ChmMakeBottleOfDisinfectant = "3. Fabriquer une bouteille de désinfectant (Ensemble de chimie)"
+	Recipe_ChmMakeChlorineTablets = "3. Fabriquer des comprimés de chlore (Ensemble de chimie)",
+
+
+	Recipe_FrnMakeFormaForTestTube = "Créer une forme de tube à essai",
+	Recipe_FrnMakeFormaForFlask = "Créer une forme de flacon",
+	Recipe_FrnMakeFormaForSyringeReusable = "Créer une forme de seringue",
+	Recipe_FrnMakeFormaForJar = "Créer une forme de pot",
+	Recipe_FrnMakeFormaForJarLid = "Créer une forme de couvercle de pot",
+	Recipe_FrnMakeFormaForNeedle = "Créer une forme d'aiguille",
+	Recipe_FrnMakeFormaForSmallMetallList = "Créer une forme de petite liste de métaux",
+	Recipe_FrnMakeFormaHeadHeavyHammer = "Créer une forme de tête de marteau",
+	Recipe_FrnMakeFormaHeadFireAxe = "Créer une forme de tête de hache de pompier",
+
+	Recipe_FrnMakeSyringeReusable = "Créer une seringue réutilisable (Four à Moufle)",
+	Recipe_FrnMakeJarLid = "Créer un couvercle de pot (Four à Moufle)",
+	Recipe_FrnMakeNeedle = "Créer des aiguilles (Four à Moufle)",
+	Recipe_FrnMakeSmallSheetMetal = "Créer un petite feuille de métal (Four à Moufle)",
+	Recipe_FrnMakeHeadFireAxe = "Créer une tête de hache de pompier (Four à Moufle)",
+	Recipe_FrnMakeHeadHeavyHammer = "Créer une tête de marteau (Four à Moufle)",
+	Recipe_FrnMakeTestTube = "Fabriquer des tubes à essai x3 (Four à Moufle)",
+	Recipe_FrnMakeFlask = "Fabriquer un flacon (Four à Moufle)",
+	Recipe_FrnMakeJar = "Fabriquer un pot (Four à Moufle)",
+
+	Recipe_ReFireAxe = "Fabriquer une hache de pompier",
+	Recipe_ReSledgehammer = "Fabriquer une masse",
+
+	Recipe_FrnMakeIngotMold = "Fabriquer une lingotière",
+	
+	Recipe_FrnMeltGoldJewelry = "Faire fondre les bijoux en or (Four à Moufle)",
+	Recipe_FrnMeltSilverJewelry = "Faire fondre les bijoux en argent (Four à Moufle)",
+	Recipe_FrnMakeGolgIngot = "Fabriquer un lingot d'or (Four à Moufle)",
+	Recipe_FrnMakeSilverIngot = "Fabriquer un lingot d'argent (Four à Moufle)",
+
+	Recipe_TupoeGovnoCompWork = "Assembler un ordinateur de bureau (Établi de laboratoire)",
+	Recipe_UnpackTestTubes = "Déballer les tubes à essai",
+	Recipe_PackTestTubes = "Emballer les tubes à essai",
+	Recipe_ChmCollectInfectedRareBlood = "Recueillir du sang rare infecté dans un tube à essai",
+
+	Recipe_LabAssembleMicroscope = "Assembler le microscope (Établi de laboratoire)",
+	Recipe_LabAssembleChromatograph = "Assembler le chromatographe (Établi de laboratoire)",
+	Recipe_LabAssembleChemistrySet = "Assembler l'ensemble de chimie (Établi de laboratoire)",
+	Recipe_LabAssembleSpectrometer = "Assembler le spectromètre (Établi de laboratoire)",
+	Recipe_LabAssembleCentrifuge = "Assembler la centrifugeuse (Établi de laboratoire)",
+	Recipe_LabAssembleMuffleFurnace = "Assembler la Four à Moufle (Établi de laboratoire)",
+	Recipe_LabAssembleWorkbench = "Assembler l'établi",
+	Recipe_LabAssembleChevalet = "Assembler le chevalet",
+
+	Recipe_DecAssembleSkeleton = "Assembler le modèle squelette (Établi de laboratoire)",
+	Recipe_DecAssembleVirusModel = "Assembler le modèle de virus (Établi de laboratoire)",
+	Recipe_DecAssembleCaduceus = "Assembler le caducée (Établi de laboratoire)",
+	Recipe_DecAssembleWhiteboard = "Assembler le tableau blanc (Établi de laboratoire)",
+	Recipe_DecPaintPeriodicTablePoster = "Peindre l'affiche du tableau périodique (Chevalet)",
+	Recipe_DecPaintSexyNursePoster = "Peindre l'affiche de l'infirmière sexy (Chevalet)",
+	Recipe_DecPaintWashYourHandsPoster = "Peindre l'affiche Lavez-vous les mains (Chevalet)",
+	Recipe_DecPaintBiohazardPoster = "Peindre l'affiche Danger biologique (Chevalet)",
+	Recipe_DecPaintHumanBrainPoster = "Peindre l'affiche Cerveau humain (Chevalet)",
+	Recipe_DecAssemblePharmacyNeonSign = "Assembler l'enseigne néon de la Pharmacie (Établi de laboratoire)",
+	Recipe_DecAssemblePizzaNeonSign = "Assembler l'enseigne néon de la Pizzeria (Établi de laboratoire)",
+
+	Recipe_ChmCollectInfectedBlood = "Recueillir du sang infecté dans un tube à essai",
+	
+	Recipe_ChmGetAnInjection = "Obtenir une injection (soi-même)",
+	Recipe_ChmGetAnInjectionTwo = "Obtenir une injection (soi-même)",
+	Recipe_ChmSterilizeTestTube = "Stériliser le tube à essai (Eau chaude)",
+	Recipe_ChmSterilizeTestTube2 = "Stériliser le tube à essai (Désinfectant)",
+	Recipe_ChmSterilizeFlask = "Stériliser le flacon (Eau chaude)",
+	Recipe_ChmSterilizeFlask2 = "Stériliser le flacon (Désinfectant)",
+	Recipe_ChmPourTaintedBlood = "Verser du sang contaminé",
+	Recipe_ChmMakeSyringe = "Fabriquer une seringue réutilisable",
+	Recipe_FrnMakeSyringe = "Fabriquer une seringue réutilisable (Four à Moufle)",
+	Recipe_ChmSterilizeLabSyringeReusable = "Stériliser la seringue réutilisable (Eau chaude)",
+	Recipe_ChmSterilizeLabSyringeReusable2 = "Stériliser la seringue réutilisable (Désinfectant)",
+
+	Recipe_OthShatterEmptyBottle = "Briser une bouteille vide",
+	Recipe_OthShatterPerfumeVial = "Briser un flacon de parfum",
+	Recipe_OthShatterCologneVial = "Briser un flacon d'eau de Cologne",
+	Recipe_OthShatterSmashedBottle = "Briser une bouteille brisée",
+	Recipe_OthShatterCarGlass = "Briser une fenêtre de voiture",
+	Recipe_OthShatterCarWindshield = "Briser un pare-brise de voiture",
+	Recipe_OthUnpackSyringes = "Déballer les seringues",
+	Recipe_OthPackSyringes = "Emballer les seringues",
+	Recipe_OthTakePills = "Prendre des pilules",
+	Recipe_OthClearWithChlorineTablets = "Nettoyer avec des comprimés de chlore",
+}
