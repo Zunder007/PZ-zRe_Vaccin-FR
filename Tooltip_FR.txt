@@ -1,0 +1,64 @@
+Tooltip_FR = {
+
+	Tooltip_LabFlaskPack = "Garder 8 flacons.",
+
+	Tooltip_LabTestTubePack = "Garder 10 tubes à essai.",
+	Tooltip_ATubeRareBlood = "Des trucs de recherche rares.",
+	Tooltip_ARareBlood = "Des trucs de recherche rares. Non stockés depuis longtemps.",
+
+	Tooltip_LabMicroscope = "Lieu de travail pour la manipulation de base des cellules sanguines.",
+	Tooltip_LabChromatograph = "Un dispositif pour isoler les éléments nécessaires des compositions. Un ordinateur est nécessaire pour ce travail.",
+	Tooltip_LabSpectrometer = "Un dispositif pour examiner des échantillons, pour trouver la présence d'éléments étrangers.",
+	Tooltip_LabChemistrySet = "Lieu de travail pour effectuer diverses réactions chimiques.",
+	Tooltip_LabCentrifuge = "Utilisé pour séparer le sang en composants.",
+	Tooltip_LabMuffleFurnace = "Four pour le traitement du verre et des métaux mous.",
+	Tooltip_LabWorkbench = "Une table avec tous les outils nécessaires pour créer une variété d'appareils.",
+	Tooltip_LabEasel = "Un attribut indispensable pour tout maître du portrait et du paysage.",
+
+	Tooltip_LabSyringe = "Seringue jetable pour injection et distribution de sang.",
+	Tooltip_LabSyringePack = "10 seringues stériles jetables.",
+	Tooltip_LabSyringeUsed = "Ne peut pas être réutilisé.",
+	Tooltip_LabTestTube = "Conteneur pour stocker du matériel biologique.",
+	Tooltip_LabTestTubeDirty = "Peut être stérilisé avec de l'eau chaude.",
+	Tooltip_LabFlask = "Conteneur pour stocker divers réactifs chimiques.",
+	Tooltip_LabFlaskDirty = "Peut être stérilisé avec de l'eau chaude.",
+	Tooltip_LabSyringeReusableUsed = "Peut être stérilisé avec de l'eau chaude.",
+
+	Tooltip_MatInfectedBlood = "Échantillon de sang de zombie. Ça se gâte vite.",
+	Tooltip_MatTaintedBlood = "Échantillon de sang inapproprié.",
+	Tooltip_MatShatteredGlass = "Matériel pour fabriquer de la verrerie de laboratoire.",
+
+	Tooltip_ChHydrochloricAcidCan = "Portez toujours des gants lorsque vous manipulez de l’acide.",
+	Tooltip_ChSodiumHydroxideBag = "Réactif chimique.",
+	Tooltip_ChAmmonia = "Utilisé comme réactif chimique.",
+	Tooltip_ChSulfuricAcidCan = "Acide très fort. Prenez vos précautions.",
+
+	Tooltip_CmpSyringeWithBlood = "Peut être testé pour le virus zombie. Non stocké depuis longtemps.",
+	Tooltip_CmpSyringeWithTaintedBlood = "Échantillon de sang inapproprié.",
+	Tooltip_CmpTestTubeWithInfectedBlood = "Principaux éléments de recherche.",
+	Tooltip_CmpFlaskWithBloodCells = "Cellules sanguines actives. Des recherches et une purification supplémentaires sont nécessaires.",
+	Tooltip_CmpFlaskWithBloodPlasma = "Utilisé comme composant pour créer des médicaments.",
+	Tooltip_CmpFlaskWithLeukocytes = "Base de vaccin et source d’anticorps.",
+	Tooltip_CmpTestTubeWithAntibodies = "La base pour créer un remède contre le virus zombie.",
+
+	Tooltip_CmpSyringeWithPlainVaccine = "Réinitialise l'infection à 15 %. Donne 20 % de résistance au virus pendant une journée lorsque vous êtes en bonne santé. Faible réaction à l'albumine.",
+	Tooltip_CmpSyringeWithQualityVaccine = "Réinitialise l'infection à 10 %. Donne 40 % de résistance au virus pendant deux jours lorsque vous êtes en bonne santé. Réaction moyenne à l'albumine.",
+	Tooltip_CmpSyringeWithAdvancedVaccine = "Réinitialise l'infection à 5 %. Donne 60 % de résistance au virus pendant deux jours lorsque vous êtes en bonne santé. Forte réaction à l'albumine.",
+	Tooltip_CmpSyringeWithCure = "Guérit complètement l’infection. Donne 100 % de résistance aux virus pendant une journée lorsque vous êtes en bonne santé.",
+	Tooltip_CmpSyringeWithSerum = "Guérit complètement l’infection. Donne 30 % de chances d'obtenir des 'anticorps résistants'.",
+	Tooltip_CmpZomboxivir = "Guérit complètement une infection.",
+	Tooltip_CmpZomboxycycline = "Donne 100 % de résistance aux virus pendant 24 heures.",
+
+	Tooltip_CmpFlaskWithSodiumHypochlorite = "Utilisé pour créer des injections.",
+	Tooltip_CmpFlaskWithAmmoniumSulfate = "Utilisé pour nettoyer les substances biologiques.",
+	Tooltip_CmpFlaskWithHydrogenPeroxide = "Base désinfectante.",
+	Tooltip_CmpAlbuminPills = "Restaure une petite quantité de santé. Prolonge l'effet du vaccin.",
+	Tooltip_CmpChlorineTablets = "Tablettes de purificateur d'eau rapide.",
+
+	Tooltip_BkLaboratoryEquipment1 = "Plans et conseils pour assembler une variété d’équipements de laboratoire.",
+	Tooltip_BkLaboratoryEquipment2 = "Atelier de réalisation de supports visuels et d'affiches.",
+	Tooltip_BkLaboratoryEquipment3 = "Mode d'emploi d'un four à moufle avec exemples pratiques.",
+	Tooltip_BkVirologyCourses1 = "Méthodes d'extraction et d'étude des matériels biologiques.",
+	Tooltip_BkVirologyCourses2 = "Fabrication et utilisation de médicaments antiviraux.",
+	Tooltip_BkChemistryCourse = "Un petit guide pour ceux qui s'intéressent à la chimie.",
+}
