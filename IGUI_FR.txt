@@ -1,0 +1,12 @@
+IGUI_FR = {	
+	IGUI_zReVaccineNotResult_1 = "Rien...",
+	IGUI_zReVaccineNotResult_2 = "Vide...",
+	IGUI_zReVaccineNotResult_3 = "Rien ici...",
+	
+	IGUI_CraftCategory_Equipment = "Équipement",
+	IGUI_CraftCategory_Decorations = "Décorations",
+	IGUI_CraftCategory_Chemistry = "Chimie",
+	IGUI_CraftCategory_Other = "Autre",
+	IGUI_CraftCategory_Melting = "Fusion",
+	IGUI_CraftCategory_Vaccine = "Vaccin",
+}
