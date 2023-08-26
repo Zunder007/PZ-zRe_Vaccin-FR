@@ -1,0 +1,5 @@
+UI_FR = {
+/* zRe Antibodies */
+	UI_trait_zReAntibodies = "Anticorps résistants",
+	UI_trait_zReAntibodiesDesc = "Vos efforts ont payé. <LINE> Il semble que vous soyez désormais immunisé contre le virus zombie.",
+}
