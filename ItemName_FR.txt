@@ -1,0 +1,23 @@
+ItemName_FR = {
+	ItemName_TheyKnew.Zomboxivir = "Ampoule de Zomboxivir",
+	ItemName_TheyKnew.MysteriousHazmat = "Mystérieuse tenue NBC",
+	ItemName_TheyKnew.MysteriousSatchel = "Sacoche tactique",
+	ItemName_TheyKnew.Zomboxycycline = "Pilules de Zomboxycycline",
+	
+	
+	ItemName_LabItems.kerBlacksmithTongs = "Pinces de forgeron",
+	ItemName_LabItems.kerBlacksmithTigel = "Creuset en graphite",
+
+	ItemName_LabItems.FormaForTestTube = "Forme du tube",
+	ItemName_LabItems.FormaForFlask = "Forme de flacon",
+	ItemName_LabItems.FormaForSyringeReusable = "Forme de la seringue",
+	ItemName_LabItems.FormaForJar = "Forme de pot",
+	ItemName_LabItems.FormaForJarLid = "Forme de couvercle de pot",
+	ItemName_LabItems.FormaForNeedle = "Forme de l'aiguille",
+	ItemName_LabItems.FormaForSmallMetallList = "Forme de petite feuille",
+	ItemName_LabItems.FormaHeadHeavyHammer = "Forme de tête de marteau lourd",
+	ItemName_LabItems.FormaHeadFireAxe = "Forme de tête de hache de pompier",
+
+	ItemName_LabItems.HeadFireAxe = "Tête de hache de pompier",
+	ItemName_LabItems.HeadHeavyHammer = "Tête de marteau lourd",
+}
