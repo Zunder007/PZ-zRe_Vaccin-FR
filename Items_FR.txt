@@ -1,0 +1,89 @@
+Items_FR = {
+
+	DisplayName_LabFlaskPack = "Paquet de flacons",
+
+
+	DisplayName_NotebookVaccine5 = "Notes sur le vaccin niveau 4 et le sérum",
+	DisplayName_CmpSyringeWithSerum = "Seringue avec sérum (lvl 5)",
+
+
+	DisplayName_NotebookVaccineStart = "Notes sur le vaccin initial",
+	DisplayName_NotebookVaccine2 = "Notes sur le vaccin niveau 2",
+	DisplayName_NotebookVaccine3 = "Notes sur le vaccin niveau 3",
+	DisplayName_NotebookVaccine4 = "Notes sur le vaccin niveau 4",
+
+	DisplayName_LabTestTubePack = "Paquet de tubes à essai",
+
+	DisplayName_CmpTestTubeWithRareBlood = "Tube à essai avec du sang rare",
+	DisplayName_MatRareBlood = "Sang rare",
+
+	DisplayName_LabMicroscope = "Microscope",
+	DisplayName_LabChromatograph = "Chromatographe",
+	DisplayName_LabSpectrometer = "Spectromètre",
+	DisplayName_LabChemistrySet = "Ensemble de chimie",
+	DisplayName_LabCentrifuge = "Centrifugeuse",
+	DisplayName_LabMuffleFurnace = "Four à Moufle",
+	DisplayName_LabWorkbench = "Table de travail",
+	DisplayName_LabEasel = "Chevalet",
+	DisplayName_LabDecorWhiteboard = "Tableau blanc",
+	DisplayName_LabPosterPeriodicTable = "Affiche du tableau périodique",
+	DisplayName_LabPosterWashHands = "Affiche Lavez-vous les mains",
+	DisplayName_LabPosterBiohazard = "Affiche Danger biologique",
+	DisplayName_LabPosterHumanBrain = "Affiche Cerveau humain",
+
+	DisplayName_LabSyringe = "Seringue",
+	DisplayName_LabSyringeReusable = "Seringue réutilisable",
+	DisplayName_LabSyringeReusableUsed = "Seringue réutilisable souillée",
+	DisplayName_LabSyringePack = "Paquet de seringues",
+	DisplayName_LabSyringeUsed = "Seringue usagée",
+	DisplayName_LabTestTube = "Tube à essai",
+	DisplayName_LabTestTubeDirty = "Tube à essai souillé",
+	DisplayName_LabFlask = "Flacons",
+	DisplayName_LabFlaskWater = "Flacon rempli d'eau",
+	DisplayName_LabFlaskDirty = "Flacon souillé",
+	DisplayName_LabTestResultNegative = "Résultat du test : Négatif",
+	DisplayName_LabTestResultPositive = "Résultat du test : Positif",
+
+	DisplayName_MatInfectedBlood = "Sang infecté",
+	DisplayName_MatTaintedBlood = "Sang contaminé",
+
+	DisplayName_ChHydrochloricAcidCan = "Bidon d'acide chlorhydrique",
+	DisplayName_ChSodiumHydroxideBag = "Sachet d'hydroxyde de sodium",
+	DisplayName_ChAmmonia = "Ammoniac",
+	DisplayName_ChSulfuricAcidCan = "Bidon d'acide sulfurique",
+
+	DisplayName_CmpSyringeWithBlood = "Seringue avec un test sanguin",
+	DisplayName_CmpSyringeWithTaintedBlood = "Seringue avec du sang contaminé",
+	DisplayName_CmpTestTubeWithInfectedBlood = "Tube à essai avec du sang infecté",
+	DisplayName_CmpTestTubeWithTaintedBlood = "Tube à essai avec du sang contaminé",
+	DisplayName_CmpFlaskWithBloodPlasma = "Flacon de plasma sanguin",
+	DisplayName_CmpFlaskWithBloodCells = "Flacon de cellules sanguines",
+	DisplayName_CmpFlaskWithLeukocytes = "Flacon avec des leucocytes",
+	DisplayName_CmpTestTubeWithAntibodies = "Tube à essai avec des anticorps",
+
+	DisplayName_CmpSyringeWithPlainVaccine = "Seringue avec vaccin (niveau 1)",
+	DisplayName_CmpSyringeWithQualityVaccine = "Seringue avec vaccin (niveau 2)",
+	DisplayName_CmpSyringeWithAdvancedVaccine = "Seringue avec vaccin (niveau 3)",
+	DisplayName_CmpSyringeWithCure = "Seringue avec vaccin (niveau 4)",
+
+	DisplayName_CmpFlaskWithSodiumHypochlorite = "Flacon avec de l'hypochlorite de sodium",
+	DisplayName_CmpFlaskWithAmmoniumSulfate = "Flacon avec du sulfate d'ammonium",
+	DisplayName_CmpFlaskWithHydrogenPeroxide = "Flacon avec du peroxyde d'hydrogène",
+	DisplayName_CmpAlbuminPills = "Albumine",
+	DisplayName_CmpChlorineTablets = "Comprimés de chlore",
+
+	DisplayName_FrnIngotMold = "Lingotière",
+	DisplayName_FrnGolgNugget = "Pépite d'or",
+	DisplayName_FrnSilverNugget = "Pépite d'argent",
+	DisplayName_FrnGolgIngot = "Lingot d'or",
+	DisplayName_FrnSilverIngot = "Lingot d'argent",
+
+	DisplayName_BkLaboratoryEquipment1 = "Laboratoire Vol.1 - Équipement",
+	DisplayName_BkLaboratoryEquipment2 = "Laboratoire Vol.2 - Décorations",
+	DisplayName_BkLaboratoryEquipment3 = "Laboratoire Vol.3 - Fusion",
+
+	DisplayName_BkChemistryCourse = "Laboratoire Vol.4 - Brève de Chimie",
+
+	DisplayName_BkVirologyCourses1 = "Laboratoire Vol.5 - Virologie Partie 1",
+	DisplayName_BkVirologyCourses2 = "Laboratoire Vol.6 - Virologie Partie 2",
+}
