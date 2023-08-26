@@ -1,0 +1,40 @@
+Sandbox_FR = {
+	Sandbox_lgd_antibodies_general = "zRe VACCINE - PARAMÈTRES",
+
+	Sandbox_general_baseAntibodyGrowth = "Puissance des anticorps résistants",
+	Sandbox_general_baseAntibodyGrowth_tooltip = "Cette valeur représente la croissance des anticorps par défaut (en relation avec la progression de l'infection)[Fonctionne uniquement si vous avez le trait "Anticorps résistants"]. Difficulté : Régler à 1.39 pour Difficile/ 1.6 pour Moyen/ 4.0 pour Ultra Facile.",
+
+	Sandbox_zReV_BlackChemZombieSpawnChance = "Zombie en combinaison chimique noire. Taux d'apparition :",
+	Sandbox_zReV_BlackChemZombieSpawnChance_tooltip = "Varie de 300 à 20 000, la valeur par défaut est 500 (très rare). Les zombies normaux apparaissent à partir de 2000 et +. Par exemple, un zombie golfeur (assez rare) apparaît à une valeur de 2 000, et un garde forestier à une valeur de 10 000.",
+
+	Sandbox_zReV_NotesInBlackChemZombieSpawnChance = "Chance de trouver des notes de formule. Pourcentage :",
+	Sandbox_zReV_NotesInBlackChemZombieSpawnChance_tooltip = "Varie de 0 à 100, la valeur par défaut est 30. Le réglage à 0 désactive la possibilité de trouver une note de formule. N'affecte que les zombies en combinaison chimique noire. Les notes ne peuvent être trouvées que jusqu’au niveau de vaccin 4, inclus.",
+
+	Sandbox_zReV_BookInWorldSpawnChance = "Chance de trouver un livre dans le monde. Multiplicateur :",
+	Sandbox_zReV_BookInWorldSpawnChance_tooltip = "Varie de 0 à 2, la valeur par défaut est 1. Le réglage à 0 désactive l'apparition de livre dans le monde. N'affecte pas l'apparition des livres sur les zombies en combinaison chimique noire.",
+
+	Sandbox_zReV_chanceToRare = "Échantillon rare. Pourcentage :",
+	Sandbox_zReV_chanceToRare_tooltip = "Détermine la chance d'obtenir un échantillon rare à l'autopsie.",
+
+	Sandbox_zReV_chanceToNormal = "Échantillon normal. Pourcentage :",
+	Sandbox_zReV_chanceToNormal_tooltip = "Détermine la chance d'obtenir un échantillon normal à l'autopsie.",
+
+	Sandbox_zReV_ZomboxivirSpawnChance = "Vaccins - Zomboxivir. Pourcentage :",
+	Sandbox_zReV_ZomboxivirSpawnChance_tooltip = "Objet du mod 'THEY KNEW' qui guérit complètement l'infection.<br>L'option affecte la chance de trouver du Zomboxivir sur des zombies en combinaison chimique noire.<br>Il est conseillé d'utiliser soit le taux d'apparition de ce vaccin, soit celui du vaccin niveau 1 (pour conserver la valeur du jeu d'origine).",
+
+	Sandbox_zReV_ZomboxycyclineSpawnChance = "Vaccins - Zomboxycycline. Pourcentage :",
+	Sandbox_zReV_ZomboxycyclineSpawnChance_tooltip = "Objet du mod 'THEY KNEW' qui donne l'immunité pendant une journée.<br>L'option affecte la chance de trouver du Zomboxycycline sur des zombies en combinaison chimique noire.",
+
+	Sandbox_zReV_DefaultVaccineSpawnChance = "Vaccins - Vaccin niveau 1. Pourcentage :",
+	Sandbox_zReV_DefaultVaccineSpawnChance_tooltip = "L'élément principal du mod, réinitialise l'infection à 20%.<br>L'option affecte la chance de trouver du Vaccin niveau 1 sur des zombies en combinaison chimique noire.<br>Il est conseillé d'utiliser soit le taux d'apparition de ce vaccin, soit celui du Zomboxivir (pour conserver la valeur du jeu d'origine).",
+
+	Sandbox_zReV_ScalpelTweezersSpawnChance = "Objets - Scalpel et Pince à épiler. Pourcentage :",
+	Sandbox_zReV_ScalpelTweezersSpawnChance_tooltip = "L'option affecte la chance de trouver ces objets sur des zombies en combinaison chimique noire.",
+
+	Sandbox_zReV_TubeOrSyringeOrFlaskSpawnChance = "Objets - Tubes à essai, Seringues, Flacons. Pourcentage :",
+	Sandbox_zReV_TubeOrSyringeOrFlaskSpawnChance_tooltip = "L'option affecte la chance de trouver ces objets sur des zombies en combinaison chimique noire.",
+
+	Sandbox_zReV_TigelTongsSpawnChance = "Objets - Tigel et Pinces. Pourcentage :",
+	Sandbox_zReV_TigelTongsSpawnChance_tooltip = "L'option affecte la chance de trouver ces objets sur des zombies en combinaison chimique noire.",
+
+}
