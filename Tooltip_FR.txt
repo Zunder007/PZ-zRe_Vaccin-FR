@@ -61,4 +61,13 @@ Tooltip_FR = {
 	Tooltip_BkVirologyCourses1 = "Méthodes d'extraction et d'étude des matériels biologiques.",
 	Tooltip_BkVirologyCourses2 = "Fabrication et utilisation de médicaments antiviraux.",
 	Tooltip_BkChemistryCourse = "Un petit guide pour ceux qui s'intéressent à la chimie.",
+
+	Tooltip_zReVC_Workbench = "Nécessite d'être à proximité d'un établi!<br> ",
+	Tooltip_zReVC_Easel = "Nécessite d'être à proximité d'un chevalet!<br> ",
+	Tooltip_zReVC_MuffleFurnace = "Nécessite d'être à proximité d'un four à moufle!<br> ",
+	Tooltip_zReVC_ChemistrySet = "Nécessite d'être à proximité d'un ensemble de chimie!<br> ",
+	Tooltip_zReVC_Spectrometer = "Nécessite d'être à proximité d'un spectromètre!<br> ",
+	Tooltip_zReVC_Microscope = "Nécessite d'être à proximité d'un microscope!<br> ",
+	Tooltip_zReVC_Centrifuge = "Nécessite d'être à proximité d'une centrifugeuse!<br> ",
+	Tooltip_zReVC_ChromatographAndComputer = "Nécessite d'être à proximité d'un ordinateur avec chromatographe!<br> ",
 }
