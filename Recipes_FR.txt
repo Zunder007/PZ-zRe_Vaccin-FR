@@ -104,6 +104,8 @@ Recipe_FR = {
 	Recipe_LabAssembleWorkbench = "Assembler l'établi",
 	Recipe_LabAssembleChevalet = "Assembler le chevalet",
 
+	Recipe_LabAssembleEasel = "Assembler le chevalet",
+
 	Recipe_DecAssembleSkeleton = "Assembler le modèle squelette (Établi de laboratoire)",
 	Recipe_DecAssembleVirusModel = "Assembler le modèle de virus (Établi de laboratoire)",
 	Recipe_DecAssembleCaduceus = "Assembler le caducée (Établi de laboratoire)",
@@ -140,4 +142,9 @@ Recipe_FR = {
 	Recipe_OthPackSyringes = "Emballer les seringues",
 	Recipe_OthTakePills = "Prendre des pilules",
 	Recipe_OthClearWithChlorineTablets = "Nettoyer avec des comprimés de chlore",
+
+	Recipe_OthPackTestTubes = "Emballer les tubes à essai",
+	Recipe_OthUnpackTestTubes = "Déballer les tubes à essai",
+	Recipe_Pour_a_flask_out = "Verser le contenu d'un flacon",
+	Recipe_Take_Zomboxycycline_Pills = "Prendre des pilules de Zomboxycycline",
 }
