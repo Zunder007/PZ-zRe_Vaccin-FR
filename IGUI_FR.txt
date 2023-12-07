@@ -9,4 +9,6 @@ IGUI_FR = {
 	IGUI_CraftCategory_Other = "Autre",
 	IGUI_CraftCategory_Melting = "Fusion",
 	IGUI_CraftCategory_Vaccine = "Vaccin",
+
+	IGUI_ItemCat_Metallworking = "Artisanat des métaux",
 }
